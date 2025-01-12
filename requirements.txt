@@ -1,0 +1,5 @@
+streamlit
+import
+DeepFace
+pipeline
+numpy
